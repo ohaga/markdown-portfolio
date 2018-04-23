@@ -8,6 +8,6 @@
   1. underpunkt
   1. mer info
 1. Mer
-  a. kjø l
-  b. hj h
+  1. kjø l
+  1. hj h
   
